@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100..900&display=swap');
+body{
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.navbar-left{
+    padding-left: 100px;
+    padding-top: 100px;
+    color: aqua;
+    letter-spacing: 3px;
+    font-size: 20px;
+
+}
+.navbar-right{
+    padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.a-element{
+    padding: 10px;
+    margin: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 80vh;
+.about-id{
+    padding-bottom: 300px;
+    padding-left: 100px;
+    color: aqua;
+    letter-spacing: 3px;
+    font-size: 20px;  
+}
+}
+.about-left{
+    width: 50vw;
+    text-align: right;
+    padding-left: 10px;
+}
+.about-right{
+    width: 50vw;
+    padding-left: 100px;
+}
+.about-h{
+    font-optical-sizing: auto;
+    font-size: 25px;
+}
+.about-p{
+     font-family: "Encode Sans", sans-serif;
+     font-size: 20px;
+}
+.education{
+    padding-left: 20px;
+    height: 40vw;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.education-h1{
+    font-family: "Encode Sans", sans-serif; 
+    color: aqua;
+    letter-spacing: 3px;
+    padding-left: 93px;
+    font-size: 40px;
+}
+.education-sub-con{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+  
+}
+.education-card{
+    border: 2px aqua solid;
+    margin: 20px;
+    padding: 20px;
+    width: 400px;
+    font-size: 20px;
+}
+.edu-h1{
+    font-optical-sizing: auto;
+    font-size: 25px;
+}
+.edu-p{
+    font-family: "Encode Sans", sans-serif;
+     font-size: 20px; 
+}
+.contact-info{
+    text-align: center;
+    padding-bottom: 200px;
+}
+.contact-h1{
+    font-family: "Encode Sans", sans-serif; 
+    color: aqua;
+    letter-spacing: 3px;
+    padding-left: 100px;
+    font-size: 40px;  
+}
+.contact-info{
+    font-optical-sizing: auto;
+    font-size: 25px; 
+}
+.social-icon-imag{
+    height: 50px;
+    padding: 20px;
+}
+.social-icons{
+    text-align: center;
+}
+.home-left{
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-family: "Encode Sans", sans-serif;
+    text-align: right;
+    width: 50vw;
+}
+.home-h1{
+    padding-bottom: 500px;
+    padding-left: 100px;
+    color: aqua;
+    letter-spacing: 3px;
+    font-size: 20px;  
+}
+.home{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 90vh;
+}
+.home-right{
+    padding-left: 110px;
+    width: 50vw;
+}
